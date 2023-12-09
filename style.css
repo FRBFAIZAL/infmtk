@@ -88,11 +88,3 @@ ul li a:hover{
 }
 
 
-#site-branding {
-   padding: 20% 16% 16% 16%;
-}
-@media (min-width: 992px) {
- #site-branding {
-    padding: calc(3rem + 12vw) 0;
- }
-}
