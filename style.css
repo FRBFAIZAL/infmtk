@@ -1,6 +1,6 @@
 *{
-	margin: 0px;
-	padding: 0px;
+	margin: 0em;
+	padding: 0em;
 	font-family: sans-serif;
 }
 header{
@@ -11,7 +11,7 @@ header{
 }
 ul{
 	float: right;
-	margin: 35px;
+	margin: 35em;
 }
 ul li{
 	display: inline-block;
@@ -19,12 +19,12 @@ ul li{
 ul li a{
 	text-decoration: none;
 	color: #fff;
-	padding: 5px 20px;
-	border: 2px solid #fff;
-	border-radius: 20px;
+	padding: 5em 20em;
+	border: 2em solid #fff;
+	border-radius: 20em;
 	transition: 0.6s;
-	margin: 10px;
-	font-size: 12px;
+	margin: 10em;
+	font-size: 12em;
 	font-weight: bold;
 }
 ul li a:hover{
@@ -36,13 +36,13 @@ ul li a:hover{
 }
 .logo img{
 	float: left;
-	width: 180px;
+	width: 180em;
 	height: auto;
-	margin-top: 10px;
+	margin-top: 10em;
 	cursor: pointer;
 }
 .navbar{
-	max-width: 1200px;
+	max-width: 1200em;
 	margin: auto;
 }
 .contents{
@@ -52,35 +52,35 @@ ul li a:hover{
 }
 .contents h1{
 	color: #fff;
-	font-size: 70px;
-	text-shadow: -4px 4px 4px #000;
+	font-size: 70em;
+	text-shadow: -4em 4em 4em #000;
 }
 .color{
 	color: red;
 }
 .contents p{
 	color: white;
-	font-size: 20px;
+	font-size: 20em;
 	text-align: center;
-	margin-right: 400px;
+	margin-right: 400em;
 }
 .button{
 	position: absolute;
 	top: 50%;
 	left: 36%;
-	margin-top: 60px;
+	margin-top: 60em;
 	font-weight: bold;
 }
 .btn{
-	border: 2px solid #fff;
-	padding: 10px 30px;
+	border: 2em solid #fff;
+	padding: 10em 30em;
 	color: #fff;
 	text-decoration: none;
 	transition: 0,6 ease;
-	border-radius: 20px;
-	margin: 10px;
+	border-radius: 20em;
+	margin: 10em;
 	background-color: red;
-	margin-left: 120px;
+	margin-left: 120em;
 }
 .btn:hover{
 	background-color: blue;
