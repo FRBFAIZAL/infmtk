@@ -87,4 +87,16 @@ ul li a:hover{
 	color: #fff;
 }
 
+@media screen and (max-width: 800px) {
+  .article-loop {
+    width: 99%;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .content-area,
+  .primary-sidebar {
+    width: 100%;
+  }
+
 
